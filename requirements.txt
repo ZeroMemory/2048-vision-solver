@@ -1,0 +1,9 @@
+numpy==2.2.6
+opencv-python==4.12.0.88
+Pillow==12.0.0
+pytesseract==0.3.13
+pyttsx3==2.99
+packaging==26.3
+comtypes==1.4.17
+pypiwin32==223
+pywin32==312
